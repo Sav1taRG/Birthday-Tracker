@@ -1,0 +1,24 @@
+
+/* Class = "UINavigationItem"; title = "Дни Рождения"; ObjectID = "87k-eo-cfd"; */
+"87k-eo-cfd.title" = "Дни Рождения";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BB9-Im-xKj"; */
+"BB9-Im-xKj.text" = "Title";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "Blh-Re-06M"; */
+"Blh-Re-06M.text" = "Имя";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "F2H-Wc-VVK"; */
+"F2H-Wc-VVK.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Дата рождения"; ObjectID = "bL1-F8-rhA"; */
+"bL1-F8-rhA.text" = "Дата рождения";
+
+/* Class = "UINavigationItem"; title = "Добавить день рождения"; ObjectID = "lFH-ss-CCL"; */
+"lFH-ss-CCL.title" = "Добавить день рождения";
+
+/* Class = "UINavigationItem"; title = "Добавить день рождения"; ObjectID = "yBK-W4-Z9b"; */
+"yBK-W4-Z9b.title" = "Добавить день рождения";
+
+/* Class = "UILabel"; text = "Фамилия"; ObjectID = "yPc-BK-tJB"; */
+"yPc-BK-tJB.text" = "Фамилия";
