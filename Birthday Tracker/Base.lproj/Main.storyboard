@@ -8,10 +8,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Дни Рождения-->
+        <!--Birthdays-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="BirthdaysTableViewController" customModule="Birthday_Tracker" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Birthdays" id="BYZ-38-t0r" customClass="BirthdaysTableViewController" customModule="Birthday_Tracker" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" id="Vom-hh-9v0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -55,10 +55,10 @@
             </objects>
             <point key="canvasLocation" x="928.98550724637687" y="79.6875"/>
         </scene>
-        <!--Добавить день рождения-->
+        <!--Add Birthday-->
         <scene sceneID="X8v-3E-EJz">
             <objects>
-                <viewController id="XRT-tK-xCd" customClass="AddBirthdayViewController" customModule="Birthday_Tracker" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Add Birthday" id="XRT-tK-xCd" customClass="AddBirthdayViewController" customModule="Birthday_Tracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3T3-3w-2sw">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

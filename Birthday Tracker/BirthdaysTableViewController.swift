@@ -41,6 +41,7 @@ class BirthdaysTableViewController: UITableViewController {
       
         loadData()
     }
+//   This block helps to reload TableView after new data is saved in ViewController presented modally (saveTapped).
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         guard let addBirthdayVC = segue.destination as? AddBirthdayViewController else {
